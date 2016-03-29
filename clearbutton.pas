@@ -5,7 +5,7 @@ unit clearbutton;
 interface
 
 uses
-  Classes, SysUtils, IDEOptionsIntf, clearrecentdlg, MenuIntf, Dialogs;
+  Classes, SysUtils, IDEOptionsIntf, MenuIntf, Dialogs;
 
 procedure Register;
 
